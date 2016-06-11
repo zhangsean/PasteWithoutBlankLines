@@ -1,9 +1,10 @@
 [
     {
-        "id": "edit","children":
+        "id": "edit",
+        "children":
         [
             {
-                "caption": "Paste without blank lines",
+                "caption": "粘贴并去除空行",
                 "command": "paste_without_blank_lines"
             }
         ]
