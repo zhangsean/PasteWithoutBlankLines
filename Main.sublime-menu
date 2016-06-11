@@ -3,10 +3,12 @@
         "id": "edit",
         "children":
         [
+            { "caption": "-", "id": "clipboard" },
             {
                 "caption": "粘贴并去除空行",
                 "command": "paste_without_blank_lines"
-            }
+            },
+            { "caption": "-" }
         ]
     }
 ]
